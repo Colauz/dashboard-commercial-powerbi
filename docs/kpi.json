@@ -1,0 +1,40 @@
+{
+  "periode": {
+    "debut": "2024-01-02",
+    "fin": "2026-09-21"
+  },
+  "ca_ht": 13483510.51,
+  "marge_brute": 2771993.81,
+  "taux_marge": 0.2056,
+  "nb_lignes_ventes": 51097,
+  "nb_commandes": 19734,
+  "panier_moyen": 683.26,
+  "nb_clients_actifs": 420,
+  "clients_faisant_80pct_du_ca": 113,
+  "part_clients_faisant_80pct": 0.269,
+  "croissance_12m": 0.112,
+  "taux_atteinte_objectifs": 0.633,
+  "remise_moyenne_ponderee": 0.0718,
+  "familles": {
+    "Énergies renouvelables": {
+      "ca": 8325184.56,
+      "taux_marge": 0.1587
+    },
+    "Câbles et conduits": {
+      "ca": 1578598.14,
+      "taux_marge": 0.1925
+    },
+    "Appareillage": {
+      "ca": 1514934.96,
+      "taux_marge": 0.3212
+    },
+    "Outillage et EPI": {
+      "ca": 1293126.53,
+      "taux_marge": 0.3064
+    },
+    "Éclairage": {
+      "ca": 771666.32,
+      "taux_marge": 0.3428
+    }
+  }
+}

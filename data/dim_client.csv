@@ -1,0 +1,421 @@
+cle_client,raison_sociale,segment,agence_rattachement,code_postal,ville,date_entree_portefeuille,encours_autorise_ht
+C00001,Rivière,Installateur indépendant,Grenoble,64591,Vidal-sur-Pinto,2020-06-07,2800
+C00002,Coste,PME du bâtiment,Grenoble,10598,Paul-sur-Mer,2017-06-15,4700
+C00003,Masson,PME du bâtiment,Chambéry,03361,ValetteVille,2016-11-10,2900
+C00004,Benard,Installateur indépendant,Grenoble,71532,Lenoirnec,2021-01-12,1400
+C00005,Lefèvre Aubry S.A.S.,Installateur indépendant,Chambéry,76307,Sainte Michelleboeuf,2023-08-07,2800
+C00006,Dumont,Installateur indépendant,Annecy,29124,Dupuy,2021-08-10,3800
+C00007,Neveu,PME du bâtiment,Chambéry,07880,Bodin,2020-09-17,6600
+C00008,Bonneau Perret SA,Industrie,Grenoble,11903,Saint Gilles-les-Bains,2023-07-15,14300
+C00009,Pinto,Collectivité,Annecy,97372,Guillotboeuf,2022-12-09,6300
+C00010,Renaud,Installateur indépendant,Annecy,08519,Sainte AnaïsVille,2019-07-11,2000
+C00011,Étienne S.A.R.L.,Installateur indépendant,Chambéry,21451,Morin-les-Bains,2018-06-08,3300
+C00012,Denis Lévy SARL,Installateur indépendant,Chambéry,49522,Mendès,2023-05-23,2900
+C00013,Faure,Installateur indépendant,Annecy,62134,Saint Luce-la-Forêt,2020-11-26,1500
+C00014,Lévy,Grand compte,Chambéry,12756,Breton,2021-12-10,16000
+C00015,Dumas SA,PME du bâtiment,Grenoble,07839,Philippe,2020-12-19,4700
+C00016,Legros Michel et Fils,PME du bâtiment,Chambéry,91704,Antoine-sur-Maury,2023-09-26,6500
+C00017,Durand Leclerc S.A.,Installateur indépendant,Chambéry,67344,Lucasnec,2020-06-08,3400
+C00018,Masson S.A.S.,Installateur indépendant,Chambéry,52360,Hoareau-sur-Maillard,2022-03-27,3200
+C00019,Ribeiro Gosselin S.A.R.L.,Installateur indépendant,Chambéry,44237,Lejeunedan,2021-06-20,2200
+C00020,Picard,PME du bâtiment,Chambéry,63407,Hardy,2022-07-15,6800
+C00021,Dupuy SARL,Industrie,Grenoble,86171,Sainte Éliseboeuf,2021-07-27,8800
+C00022,Toussaint SARL,Installateur indépendant,Chambéry,67495,Barthelemynec,2021-08-17,2400
+C00023,Lambert S.A.,PME du bâtiment,Grenoble,93689,Saint Alexandrie-sur-Mer,2022-09-21,2900
+C00024,Guillet,Collectivité,Annecy,65892,Roussel,2023-02-09,8900
+C00025,Gaudin S.A.R.L.,PME du bâtiment,Chambéry,46876,Lefortboeuf,2020-07-24,3400
+C00026,Bernard SARL,Installateur indépendant,Chambéry,66842,Saint Martinedan,2019-07-11,3200
+C00027,Picard,Installateur indépendant,Grenoble,95254,Michel-sur-Thomas,2021-04-05,3400
+C00028,Texier,Installateur indépendant,Grenoble,15644,JeanBourg,2022-03-11,2900
+C00029,Blanc,PME du bâtiment,Grenoble,63756,Mahe,2019-02-26,5500
+C00030,Munoz Clerc S.A.,Installateur indépendant,Annecy,43317,Adam-sur-Guillaume,2018-05-13,1900
+C00031,Lopes Merle et Fils,Installateur indépendant,Chambéry,05613,Grondinnec,2022-01-23,3500
+C00032,Bernier Fernandes S.A.R.L.,Grand compte,Annecy,55376,Traore,2022-03-24,15800
+C00033,Marie S.A.,Installateur indépendant,Grenoble,22321,Sainte Patrick,2020-02-15,1600
+C00034,Muller Cousin S.A.R.L.,Installateur indépendant,Grenoble,20321,Guillou-sur-Vallet,2019-07-10,2000
+C00035,Henry,Installateur indépendant,Grenoble,54660,Boutin,2021-12-21,1700
+C00036,Breton,Collectivité,Grenoble,32521,Huet,2022-10-22,5800
+C00037,Delorme,PME du bâtiment,Chambéry,02302,Ponsnec,2019-10-15,5500
+C00038,Brun,Installateur indépendant,Chambéry,05221,RollandVille,2019-10-10,1500
+C00039,Vincent SARL,PME du bâtiment,Grenoble,21369,Lefebvre,2019-10-21,6200
+C00040,Colas,PME du bâtiment,Grenoble,43416,François,2022-06-19,5400
+C00041,Bailly,Installateur indépendant,Grenoble,82434,Chartier-sur-Collet,2022-11-28,2300
+C00042,Bonnin,Installateur indépendant,Chambéry,01702,Legrand,2021-03-10,1300
+C00043,Hervé S.A.S.,Installateur indépendant,Grenoble,20860,Saint Alice,2020-06-07,1600
+C00044,Simon,Installateur indépendant,Annecy,78686,Diaz,2023-06-21,2600
+C00045,Normand,Industrie,Chambéry,32918,Saint Pierre,2017-12-03,5500
+C00046,Menard,Installateur indépendant,Grenoble,82533,Diallo-les-Bains,2023-07-31,2600
+C00047,Da Silva SARL,Installateur indépendant,Annecy,34723,Bodin-sur-Allain,2021-04-28,2300
+C00048,Poirier,Collectivité,Grenoble,66868,Buisson-sur-Chrétien,2022-09-01,5900
+C00049,Bourdon,PME du bâtiment,Grenoble,49338,Lesage-les-Bains,2020-04-21,5200
+C00050,Joubert SA,PME du bâtiment,Chambéry,84751,Jacquet-sur-Mer,2020-12-14,6000
+C00051,Bousquet,PME du bâtiment,Annecy,15257,Maillet-sur-Mer,2020-05-09,6100
+C00052,Langlois Lefebvre S.A.,PME du bâtiment,Grenoble,47628,Courtois,2019-06-07,3500
+C00053,Rodriguez,Installateur indépendant,Grenoble,62638,Weber,2022-05-17,2600
+C00054,Perrier Julien SA,Installateur indépendant,Grenoble,65843,Valentinboeuf,2020-10-10,3600
+C00055,Hamon,Industrie,Annecy,39312,Dialloboeuf,2021-07-11,7000
+C00056,Pasquier,Installateur indépendant,Annecy,32122,Delahaye,2023-03-26,3500
+C00057,Picard,Installateur indépendant,Grenoble,23629,Dumas,2021-07-12,1400
+C00058,Mary,Installateur indépendant,Grenoble,23715,Lesagedan,2020-01-10,2400
+C00059,Grondin S.A.,Industrie,Chambéry,19589,Saint Sophie,2020-05-28,7200
+C00060,Carlier,Installateur indépendant,Chambéry,62181,Paul-la-Forêt,2023-07-11,3300
+C00061,Brun SARL,PME du bâtiment,Chambéry,64850,Bonneau,2019-07-18,3200
+C00062,Camus,Installateur indépendant,Annecy,68709,Wagner,2022-10-17,2000
+C00063,Marion,Installateur indépendant,Chambéry,14893,Denisboeuf,2022-10-06,2500
+C00064,Traore,Installateur indépendant,Grenoble,48821,Diaz,2020-09-10,2700
+C00065,Leblanc Pottier S.A.S.,Installateur indépendant,Annecy,68283,TecherBourg,2022-02-25,2800
+C00066,Samson,PME du bâtiment,Chambéry,24987,Fernandez-la-Forêt,2018-11-08,4400
+C00067,Martineau,Collectivité,Chambéry,59426,Guillaumenec,2021-03-06,12600
+C00068,Blanc,Installateur indépendant,Chambéry,68438,Saint Augustedan,2019-08-23,2400
+C00069,Rémy,Industrie,Grenoble,86844,Charrier-les-Bains,2021-08-04,10600
+C00070,Auger S.A.S.,Installateur indépendant,Grenoble,28902,BouchetBourg,2021-03-20,4000
+C00071,Marques,Industrie,Annecy,51244,ParisBourg,2020-07-29,6100
+C00072,Auger,Installateur indépendant,Chambéry,48593,Bertrand-la-Forêt,2022-05-11,3300
+C00073,Teixeira SA,PME du bâtiment,Chambéry,51699,Simon,2022-09-06,2700
+C00074,Blot SA,Installateur indépendant,Grenoble,14371,Perrin-les-Bains,2023-07-24,2900
+C00075,Schneider SARL,Collectivité,Grenoble,90607,Pineau-sur-Mer,2023-08-19,10400
+C00076,Barbe,Installateur indépendant,Chambéry,31191,Saint Émilienec,2020-02-05,1600
+C00077,Lopes SARL,Installateur indépendant,Grenoble,97640,Sainte Sylvieboeuf,2019-12-16,2700
+C00078,Fernandes S.A.,Industrie,Annecy,55306,Saint Élodiedan,2021-04-03,9800
+C00079,Cousin Arnaud S.A.S.,Installateur indépendant,Chambéry,55584,PineauVille,2022-02-27,2800
+C00080,Renard SARL,PME du bâtiment,Annecy,87918,Sainte Noémi-sur-Mer,2021-09-08,3900
+C00081,Bourgeois Marin S.A.R.L.,Installateur indépendant,Annecy,44982,Pasquier-sur-Mer,2018-08-18,1400
+C00082,Poulain,Installateur indépendant,Grenoble,01474,Sainte Marguerite,2022-09-06,3900
+C00083,Jacquet,Installateur indépendant,Chambéry,97396,Samson,2020-10-22,3400
+C00084,Clément Lévy S.A.S.,Installateur indépendant,Chambéry,73331,Sainte Véroniquenec,2021-08-05,2000
+C00085,Gay SA,Industrie,Grenoble,52394,Mary,2016-07-03,15100
+C00086,Guibert,Installateur indépendant,Grenoble,64141,Imbertboeuf,2020-01-05,2900
+C00087,Bernier Masson SA,Grand compte,Grenoble,43425,Delmas,2021-11-14,27700
+C00088,Carpentier Guyon SARL,Installateur indépendant,Chambéry,61316,Huet,2018-03-10,1600
+C00089,Godard,Installateur indépendant,Grenoble,82258,Saint Sabine,2021-10-30,3900
+C00090,François,PME du bâtiment,Chambéry,88637,PerrotBourg,2021-12-19,5900
+C00091,Parent,Industrie,Annecy,31167,Perrier-sur-Martinez,2023-05-03,15700
+C00092,Devaux,Installateur indépendant,Chambéry,02463,Sainte Georges,2022-07-17,2000
+C00093,Couturier,Collectivité,Chambéry,09217,Hoarau,2023-07-02,6200
+C00094,Brunet et Fils,PME du bâtiment,Chambéry,97624,Poulain,2017-07-26,6700
+C00095,Vallée,Installateur indépendant,Grenoble,82863,Beckerdan,2022-04-04,3700
+C00096,Weiss,Installateur indépendant,Chambéry,20996,Marchal-sur-Hoareau,2022-02-14,3400
+C00097,Pruvost,Collectivité,Grenoble,05477,Noëlboeuf,2022-06-03,10600
+C00098,Guichard,PME du bâtiment,Chambéry,51585,Michel,2023-08-04,4100
+C00099,Bertrand SA,Installateur indépendant,Grenoble,66707,Pelletiernec,2022-11-04,3700
+C00100,Blanchet,Industrie,Grenoble,24641,Fouquet,2021-03-19,9100
+C00101,Olivier Dupont S.A.S.,Grand compte,Chambéry,95130,Godard,2022-03-19,28700
+C00102,Raynaud,Installateur indépendant,Grenoble,97355,Didierdan,2020-04-27,3500
+C00103,Chauvin,Collectivité,Grenoble,84912,Rodrigues,2022-11-19,12700
+C00104,Renault,PME du bâtiment,Grenoble,55654,Toussaintboeuf,2023-11-08,2700
+C00105,Grondin,Installateur indépendant,Grenoble,06757,Reynaud,2023-06-26,3400
+C00106,Muller,Industrie,Chambéry,93567,Adamboeuf,2019-10-13,15900
+C00107,Labbé,Installateur indépendant,Grenoble,01228,Mercier,2022-06-13,2000
+C00108,Letellier SA,Installateur indépendant,Chambéry,41571,RousseauVille,2021-11-13,3300
+C00109,Gonzalez Cordier S.A.,Installateur indépendant,Grenoble,41170,Bertrand,2018-10-05,3100
+C00110,Leclerc,PME du bâtiment,Grenoble,68840,Saint Brigitte-les-Bains,2022-11-22,3800
+C00111,Étienne Weiss S.A.,Installateur indépendant,Chambéry,27946,Buisson,2022-07-20,2800
+C00112,Ribeiro,Installateur indépendant,Grenoble,46543,Collet-les-Bains,2022-02-23,3200
+C00113,Lefort S.A.,PME du bâtiment,Chambéry,17561,Roux,2022-08-28,5700
+C00114,Camus,PME du bâtiment,Grenoble,85422,Coste,2023-08-24,4300
+C00115,Neveu Poirier SA,PME du bâtiment,Chambéry,17351,ThibaultVille,2020-04-21,6700
+C00116,Dupuy,Installateur indépendant,Grenoble,45607,Saint Gabriel,2021-01-21,1600
+C00117,Fouquet,PME du bâtiment,Grenoble,38637,Adam-sur-Mer,2021-04-25,5300
+C00118,Berger,PME du bâtiment,Chambéry,75118,Gauthierboeuf,2021-03-30,4900
+C00119,Besnard,Collectivité,Chambéry,83195,Millet,2021-07-17,11100
+C00120,Allard,Installateur indépendant,Chambéry,29247,Gilbert-sur-Benoit,2022-10-29,1500
+C00121,Barbe S.A.S.,Installateur indépendant,Annecy,33488,Charles,2022-10-13,2600
+C00122,Rousset Guichard S.A.S.,PME du bâtiment,Grenoble,02431,Millet,2021-10-16,5100
+C00123,Bertin,PME du bâtiment,Annecy,18595,Saint Alexandria,2023-01-07,5500
+C00124,Michaud,PME du bâtiment,Chambéry,84415,Dijoux-la-Forêt,2023-09-27,5800
+C00125,Foucher SARL,Installateur indépendant,Annecy,68179,RollandBourg,2020-08-09,3600
+C00126,Bernier,Installateur indépendant,Chambéry,05310,Adam-sur-Léger,2017-03-21,1700
+C00127,Duhamel SARL,Installateur indépendant,Chambéry,41922,Saint Sophie-les-Bains,2022-10-18,3100
+C00128,Langlois,Industrie,Grenoble,57642,Saint Joseph,2023-08-21,10800
+C00129,Gay,Industrie,Chambéry,97386,Saint StéphanieBourg,2021-08-16,8800
+C00130,Lemaître,Installateur indépendant,Annecy,72706,Sainte Émilie-sur-Mer,2021-08-21,3500
+C00131,Girard S.A.R.L.,Collectivité,Grenoble,45625,Poulain-les-Bains,2020-01-28,4500
+C00132,Barbe,Collectivité,Grenoble,40164,Cordier,2021-11-09,12100
+C00133,Antoine S.A.R.L.,Installateur indépendant,Annecy,54851,Weiss,2021-11-19,1600
+C00134,Traore Vaillant S.A.R.L.,Installateur indépendant,Chambéry,79164,Laporte-la-Forêt,2020-07-05,1400
+C00135,Lebreton,Installateur indépendant,Grenoble,63618,Hoarau-sur-Gautier,2020-07-16,2500
+C00136,Monnier S.A.,Collectivité,Chambéry,80259,Perez-sur-Poulain,2019-10-18,8800
+C00137,Fouquet,Installateur indépendant,Annecy,17601,Gaudin,2022-11-09,1600
+C00138,Launay Leclerc S.A.,Industrie,Annecy,89976,Sainte Williamnec,2023-08-16,11600
+C00139,Legrand S.A.R.L.,Collectivité,Grenoble,75200,Saint Isaac,2023-12-12,11000
+C00140,Ledoux,Grand compte,Annecy,24164,Saint Virginie-les-Bains,2021-12-23,19400
+C00141,Dos Santos,Industrie,Chambéry,54156,Sainte Gillesnec,2018-05-11,10800
+C00142,Gautier Leroux et Fils,PME du bâtiment,Chambéry,27291,Gros,2023-06-03,5700
+C00143,Picard,Grand compte,Chambéry,52108,Vidalnec,2023-08-17,17300
+C00144,Delattre Olivier S.A.R.L.,Installateur indépendant,Chambéry,45547,Renaud,2018-12-22,3800
+C00145,Vincent et Fils,Industrie,Chambéry,77104,Coste-sur-Mer,2019-03-23,7500
+C00146,Bouchet,Installateur indépendant,Annecy,79194,Voisin-sur-Fabre,2023-12-31,2400
+C00147,Girard Leclercq SARL,Installateur indépendant,Annecy,88145,Fournier-les-Bains,2023-04-23,1500
+C00148,Evrard et Fils,Installateur indépendant,Grenoble,18355,Fouquet,2021-01-20,3100
+C00149,Torres Foucher SARL,Installateur indépendant,Chambéry,71473,Barbier,2020-10-18,1900
+C00150,Lucas,Industrie,Annecy,35957,Joubert-les-Bains,2022-03-29,15000
+C00151,Millet Petitjean S.A.,Installateur indépendant,Chambéry,97332,Saint Dominique,2021-12-05,1300
+C00152,Pasquier SARL,Installateur indépendant,Chambéry,95713,Saint Bertranddan,2023-01-16,3400
+C00153,Blin,Installateur indépendant,Grenoble,75896,Saint Pénélope,2023-07-05,1900
+C00154,Louis,Industrie,Chambéry,97335,Martinez,2022-06-07,11600
+C00155,Barre Baudry SARL,PME du bâtiment,Chambéry,73580,Sainte Stéphane-les-Bains,2022-05-08,6400
+C00156,Lenoir,Installateur indépendant,Chambéry,74416,Blanc,2022-09-02,2400
+C00157,Guillon,Installateur indépendant,Annecy,54595,Guyon-les-Bains,2023-02-14,2800
+C00158,Cohen,Installateur indépendant,Grenoble,57565,Garcia-la-Forêt,2018-10-26,3600
+C00159,Boulanger SARL,Grand compte,Chambéry,22758,Turpin,2021-11-08,36400
+C00160,Brunet S.A.S.,PME du bâtiment,Chambéry,64836,Saint Audrey,2021-07-25,7200
+C00161,Parent S.A.R.L.,Installateur indépendant,Chambéry,83525,Breton,2021-04-04,2200
+C00162,Brunet Pineau S.A.R.L.,Installateur indépendant,Chambéry,72627,Saint Laurence-sur-Mer,2020-03-04,1900
+C00163,Leconte,Installateur indépendant,Chambéry,23414,BrunBourg,2021-09-11,1900
+C00164,Jourdan,Installateur indépendant,Annecy,03238,Bègue-sur-Bertrand,2022-06-13,1700
+C00165,Lacombe,Installateur indépendant,Chambéry,93898,Roger-sur-Brunet,2021-01-26,3500
+C00166,Bouvet,PME du bâtiment,Chambéry,22941,Barbier,2023-10-03,2900
+C00167,Jacquet,PME du bâtiment,Chambéry,47980,Delorme-la-Forêt,2019-10-28,4300
+C00168,Garcia,PME du bâtiment,Chambéry,34509,Carre-sur-Lemoine,2019-04-07,2500
+C00169,Bodin,Installateur indépendant,Chambéry,76567,Roux,2023-08-18,2500
+C00170,Muller Roussel S.A.R.L.,Installateur indépendant,Chambéry,59601,Carlier,2017-08-20,2000
+C00171,Sanchez SA,Collectivité,Grenoble,97147,Camus,2018-04-16,5700
+C00172,Coste,Collectivité,Chambéry,36369,Denis,2021-03-13,11400
+C00173,Rey,Installateur indépendant,Grenoble,52882,Saint Christiane-sur-Mer,2023-11-04,3300
+C00174,Costa Tessier S.A.R.L.,PME du bâtiment,Grenoble,50826,PascalBourg,2018-03-14,6400
+C00175,Tanguy SA,PME du bâtiment,Annecy,76497,Meunier-sur-De Sousa,2022-04-24,6600
+C00176,Perrin,Grand compte,Chambéry,19526,DevauxVille,2022-01-03,34600
+C00177,Barbe S.A.,Installateur indépendant,Grenoble,91487,Toussaintboeuf,2021-09-17,3100
+C00178,Maréchal Maury S.A.,Installateur indépendant,Chambéry,69999,Saint Philippe,2019-10-10,2100
+C00179,Parent,Installateur indépendant,Chambéry,44672,Sainte Moniqueboeuf,2020-12-15,2700
+C00180,Vidal De Sousa S.A.S.,Installateur indépendant,Chambéry,74901,Duprédan,2021-06-20,2800
+C00181,Fabre S.A.S.,PME du bâtiment,Chambéry,78112,Pinto,2019-07-26,4900
+C00182,Pelletier,PME du bâtiment,Chambéry,68914,Morvan,2022-03-20,2600
+C00183,Barthelemy S.A.S.,Industrie,Chambéry,69915,Albert-la-Forêt,2019-11-05,11600
+C00184,Fernandez,Industrie,Annecy,46974,Saint William,2021-11-14,16500
+C00185,Lamy,Installateur indépendant,Grenoble,31565,MathieuVille,2020-10-15,2500
+C00186,Blin SARL,Installateur indépendant,Annecy,97396,Mace-sur-Gauthier,2023-03-01,3700
+C00187,Thierry,Installateur indépendant,Chambéry,83698,Rivière-sur-Guichard,2019-10-17,2700
+C00188,Wagner et Fils,PME du bâtiment,Grenoble,70995,Morin-sur-Thibault,2021-01-01,6700
+C00189,Jacques,PME du bâtiment,Chambéry,05515,Meunier,2022-02-06,5500
+C00190,Bertin S.A.S.,PME du bâtiment,Chambéry,85606,Laine-les-Bains,2023-02-19,6900
+C00191,Courtois,PME du bâtiment,Grenoble,65840,Didier,2020-04-10,5100
+C00192,Legrand,Installateur indépendant,Chambéry,40169,Robertboeuf,2021-08-26,3100
+C00193,Sanchez,Installateur indépendant,Chambéry,39867,Maillard-la-Forêt,2022-11-09,3700
+C00194,Techer Lopez S.A.,PME du bâtiment,Chambéry,74374,Renard,2021-04-20,2500
+C00195,Blanchet,PME du bâtiment,Chambéry,35452,Simon,2021-05-15,6900
+C00196,Legros,Industrie,Chambéry,07984,Gilles,2020-10-01,10000
+C00197,Robin,Installateur indépendant,Chambéry,23183,Reydan,2022-06-26,3400
+C00198,Pichon,Installateur indépendant,Chambéry,97371,Pelletier,2018-12-10,3200
+C00199,Delaunay S.A.R.L.,Installateur indépendant,Grenoble,91646,Garcia-sur-Mer,2021-11-18,3400
+C00200,Albert,Installateur indépendant,Annecy,30411,BaillyBourg,2021-06-09,3400
+C00201,Guilbert Rossi SARL,Industrie,Chambéry,88932,Mathieu,2019-09-11,7100
+C00202,Guérin,Installateur indépendant,Chambéry,61263,Hernandez-sur-Colin,2021-07-05,3600
+C00203,Jacob,Collectivité,Chambéry,18615,Moulin-la-Forêt,2020-07-22,9800
+C00204,Texier Allain S.A.S.,Installateur indépendant,Grenoble,62774,Robin,2022-10-09,1500
+C00205,Voisin Baudry SARL,Industrie,Grenoble,52491,Tessier,2023-12-06,9100
+C00206,Bonneau,Industrie,Grenoble,73622,Descamps,2021-10-19,13300
+C00207,Blondel,Industrie,Chambéry,31288,Chevalier,2020-04-13,8200
+C00208,Thomas Berger et Fils,PME du bâtiment,Annecy,11414,Texier-les-Bains,2021-09-08,7100
+C00209,Garcia Grenier S.A.,Installateur indépendant,Chambéry,55673,Petitnec,2023-04-16,3900
+C00210,Gros Ramos S.A.R.L.,Installateur indépendant,Grenoble,05422,Sainte Rémy-les-Bains,2020-08-29,2700
+C00211,Gautier,Installateur indépendant,Chambéry,88421,Saint Josette,2022-08-02,2000
+C00212,Henry SA,Industrie,Grenoble,46752,Marchand,2023-10-07,15700
+C00213,Fernandez S.A.,Installateur indépendant,Chambéry,88366,Saint Aimée,2023-01-30,2700
+C00214,Martinez,Installateur indépendant,Annecy,05638,Saint Luce-sur-Mer,2023-05-30,1700
+C00215,Jacques Pons S.A.,Industrie,Chambéry,60549,Mathieu,2023-05-19,8000
+C00216,Lesage Pinto S.A.S.,PME du bâtiment,Chambéry,56800,Guilloudan,2020-11-05,2900
+C00217,Duhamel,Industrie,Annecy,51231,Lefort-sur-Breton,2021-08-20,9700
+C00218,Rousset S.A.R.L.,Installateur indépendant,Annecy,67472,Sainte AliceVille,2020-04-16,3300
+C00219,Le Goff,PME du bâtiment,Chambéry,97242,Costa-sur-Poirier,2019-09-04,5700
+C00220,Marin,Installateur indépendant,Grenoble,19623,Allain,2021-01-30,2100
+C00221,Bouvet,Installateur indépendant,Annecy,25520,Antoine-sur-Schneider,2018-09-16,1400
+C00222,Dufour,Installateur indépendant,Grenoble,35391,Durand,2021-11-03,2400
+C00223,Buisson SARL,Installateur indépendant,Grenoble,20363,Perrin,2021-06-05,1600
+C00224,Germain,Installateur indépendant,Chambéry,17443,FontaineBourg,2020-06-20,2400
+C00225,Guyon,Industrie,Grenoble,62883,Saint Eugène-les-Bains,2019-03-09,14400
+C00226,Joly Lebrun SARL,Installateur indépendant,Chambéry,85236,Reynaud-sur-Étienne,2021-05-02,2900
+C00227,Germain,Installateur indépendant,Grenoble,42757,Sainte Mathilde,2022-06-23,1400
+C00228,Rodrigues SA,Installateur indépendant,Annecy,81147,Pierre,2020-08-27,1600
+C00229,Gérard Gautier et Fils,Industrie,Chambéry,17831,Pichon-sur-Richard,2022-06-14,15600
+C00230,Pottier,Installateur indépendant,Grenoble,20666,Roy,2022-12-07,1500
+C00231,Launay SA,Grand compte,Annecy,97333,Germainnec,2022-07-20,16900
+C00232,Ramos,PME du bâtiment,Annecy,30953,Daniel,2021-06-12,6100
+C00233,Bernier Menard SARL,Installateur indépendant,Annecy,21190,Hervé,2019-06-03,3200
+C00234,Lecomte et Fils,Industrie,Chambéry,52122,Saint Coletteboeuf,2022-04-19,11800
+C00235,Gosselin,Installateur indépendant,Grenoble,62203,Vasseur,2017-07-16,2800
+C00236,Guillaume,Industrie,Chambéry,79416,Gaillardboeuf,2020-05-24,10200
+C00237,Couturier,PME du bâtiment,Chambéry,60202,Voisin-sur-Bourgeois,2020-10-01,4000
+C00238,Munoz Rolland SARL,Installateur indépendant,Grenoble,91568,Da Silvanec,2022-03-05,3300
+C00239,Cordier,Installateur indépendant,Grenoble,08600,Mailletdan,2020-09-29,3800
+C00240,Jacob,Installateur indépendant,Grenoble,97245,Lejeuneboeuf,2023-08-25,3000
+C00241,Parent Giraud S.A.S.,Industrie,Chambéry,84885,Saint Timothéedan,2019-06-23,6200
+C00242,Louis SA,PME du bâtiment,Chambéry,24287,Ferreira-la-Forêt,2020-06-19,6600
+C00243,Da Costa S.A.R.L.,Installateur indépendant,Grenoble,28635,Saint Frédéricnec,2021-06-01,2000
+C00244,Dumas S.A.,Installateur indépendant,Annecy,03266,MarionBourg,2022-05-31,3800
+C00245,Morel,Industrie,Chambéry,69984,Saint Hugues-la-Forêt,2021-10-11,9400
+C00246,Étienne Benoit S.A.,Industrie,Chambéry,31683,Delaunay,2022-10-04,11700
+C00247,Pineau SARL,Installateur indépendant,Grenoble,93149,Diallo-sur-Dupré,2023-07-01,1700
+C00248,Cousin Collin et Fils,Industrie,Grenoble,97132,Saint Daniellenec,2020-11-26,7800
+C00249,Pelletier,Installateur indépendant,Grenoble,78881,SamsonVille,2020-12-26,3700
+C00250,Pages,Industrie,Chambéry,75226,Paul,2022-02-28,12800
+C00251,Ferreira,PME du bâtiment,Annecy,71830,Goncalves-sur-Morin,2020-07-05,7000
+C00252,Poulain S.A.S.,Installateur indépendant,Chambéry,28604,Traore-sur-Lebon,2021-11-01,3900
+C00253,Fournier,Installateur indépendant,Grenoble,39971,Bonnin,2021-05-02,1800
+C00254,Maurice S.A.S.,PME du bâtiment,Chambéry,22423,Sainte Frédéric,2020-09-21,3300
+C00255,Lamy Andre S.A.S.,PME du bâtiment,Chambéry,41561,Labbéboeuf,2020-08-03,6600
+C00256,Lévy S.A.S.,Installateur indépendant,Grenoble,20366,Rey,2023-08-21,3500
+C00257,Dijoux,Installateur indépendant,Annecy,97127,Bourdondan,2019-11-17,2100
+C00258,Traore Guérin SA,Installateur indépendant,Chambéry,64257,GauthierBourg,2021-12-25,1600
+C00259,Normand S.A.S.,Installateur indépendant,Grenoble,05915,Lebon,2019-05-02,1800
+C00260,Colas,PME du bâtiment,Chambéry,35535,Saint Édith-sur-Mer,2018-10-30,4400
+C00261,Breton S.A.S.,PME du bâtiment,Annecy,19709,Seguin,2022-06-30,4400
+C00262,Ledoux,Installateur indépendant,Chambéry,06864,Chevalier-sur-Maillet,2022-10-05,3900
+C00263,Becker,Installateur indépendant,Chambéry,20464,Marion-sur-Picard,2022-02-16,1500
+C00264,Lefebvre,PME du bâtiment,Chambéry,37937,Delannoydan,2022-03-10,5800
+C00265,Maillard Schmitt S.A.,PME du bâtiment,Grenoble,32593,Bernard,2022-06-03,3400
+C00266,Le Roux,Installateur indépendant,Grenoble,68485,Saint Gabrielle-sur-Mer,2021-02-11,3500
+C00267,Le Roux Lecomte et Fils,Grand compte,Chambéry,31358,Sainte Camilledan,2022-06-21,37300
+C00268,Guyot,PME du bâtiment,Chambéry,38140,Sainte Pénélopenec,2022-06-24,4100
+C00269,Delannoy S.A.R.L.,PME du bâtiment,Chambéry,25816,Durand,2022-08-21,4500
+C00270,Masson Maury S.A.S.,Installateur indépendant,Chambéry,05438,GonzalezBourg,2018-04-16,3200
+C00271,Chartier,Installateur indépendant,Chambéry,72165,Saint Gérardnec,2021-04-28,1900
+C00272,Blin et Fils,PME du bâtiment,Grenoble,28287,Couturier,2021-07-29,4200
+C00273,Joseph Vallée SARL,Installateur indépendant,Grenoble,57182,Guillondan,2021-01-22,1700
+C00274,Lejeune Joubert et Fils,Industrie,Grenoble,33617,Sainte Isabelle,2022-05-17,12600
+C00275,Noël S.A.S.,Installateur indépendant,Chambéry,76516,RouxVille,2023-07-22,3200
+C00276,Barre,Industrie,Chambéry,52459,Raynaud,2022-01-28,6200
+C00277,Lambert Gonzalez S.A.R.L.,PME du bâtiment,Annecy,54859,Philippe-les-Bains,2022-11-15,3800
+C00278,Philippe Vidal S.A.,PME du bâtiment,Grenoble,18986,Sainte Christelle-sur-Mer,2021-02-07,2800
+C00279,Torres Rodriguez S.A.S.,PME du bâtiment,Annecy,30118,Saint Valériedan,2019-10-22,2500
+C00280,Bouvet S.A.,PME du bâtiment,Grenoble,03113,Sainte Auroreboeuf,2020-07-08,5200
+C00281,Royer SARL,Industrie,Grenoble,36915,Sainte Jeannine,2020-04-20,6700
+C00282,Le Goff,Collectivité,Chambéry,48131,Blanc,2018-01-01,6000
+C00283,Loiseau Vallée SARL,Installateur indépendant,Chambéry,58654,Arnaud,2021-07-13,2200
+C00284,Chauvin Parent S.A.R.L.,Grand compte,Grenoble,92584,Loiseau,2019-04-20,30100
+C00285,Lemoine François S.A.R.L.,Installateur indépendant,Chambéry,21482,Milletnec,2021-08-10,3000
+C00286,Pichon SARL,Installateur indépendant,Grenoble,56648,Blot-sur-François,2023-10-24,2100
+C00287,Thibault SARL,Installateur indépendant,Chambéry,92240,Jean-sur-Bazin,2022-08-21,2500
+C00288,Evrard SA,Industrie,Grenoble,26578,Sainte Jacquesnec,2023-06-26,11900
+C00289,Joseph,Installateur indépendant,Grenoble,62259,Leroux,2023-03-23,2700
+C00290,Thomas,PME du bâtiment,Chambéry,61678,Bourdon,2022-03-16,6700
+C00291,Vidal et Fils,Installateur indépendant,Chambéry,19952,Gay,2020-10-15,3300
+C00292,Charpentier,PME du bâtiment,Chambéry,27824,Mathieu,2022-02-19,4800
+C00293,Fournier,Installateur indépendant,Chambéry,19776,Lopes-sur-Blondel,2020-01-23,3100
+C00294,Lamy,PME du bâtiment,Chambéry,95978,Sainte Isaac,2023-03-26,3400
+C00295,Lesage Pires SA,Installateur indépendant,Annecy,11800,Marchand,2023-09-24,2700
+C00296,Blot Moulin SARL,Collectivité,Annecy,18695,PerrinVille,2023-09-19,11700
+C00297,Lenoir et Fils,PME du bâtiment,Chambéry,64677,Garnier-les-Bains,2021-07-18,5600
+C00298,Bousquet,Installateur indépendant,Chambéry,69317,Garcia,2019-11-01,3700
+C00299,Guibert,Grand compte,Grenoble,21825,Colas,2020-10-05,15800
+C00300,Royer,PME du bâtiment,Annecy,76450,Saint Christiane,2023-09-12,4800
+C00301,David,Installateur indépendant,Grenoble,27382,Merle,2017-12-18,3400
+C00302,Pons Hebert SARL,Industrie,Annecy,50368,Maillarddan,2022-09-03,12300
+C00303,Descamps,Installateur indépendant,Grenoble,88742,Ruiznec,2022-03-25,2300
+C00304,Masse,Installateur indépendant,Chambéry,74472,Sainte Margot,2023-01-28,1700
+C00305,Daniel,PME du bâtiment,Chambéry,65607,Fournier,2016-11-18,4200
+C00306,Martins Roux S.A.S.,Industrie,Grenoble,37446,Lenoir-les-Bains,2021-07-25,16100
+C00307,Dupuy,Grand compte,Chambéry,52518,Maurynec,2019-10-31,12800
+C00308,Mallet et Fils,Installateur indépendant,Grenoble,82229,Evrard,2021-11-10,3800
+C00309,Antoine,Installateur indépendant,Chambéry,37517,Sainte Grégoire,2022-02-14,2900
+C00310,Pichon SARL,Installateur indépendant,Chambéry,37801,Saint Frédérique,2022-07-30,2800
+C00311,Masse,Installateur indépendant,Grenoble,09253,Lebon,2021-07-27,2600
+C00312,Gomes S.A.,Collectivité,Chambéry,08845,Le Roux-sur-Lenoir,2020-04-02,5000
+C00313,Deschamps,Industrie,Annecy,97610,HoareauBourg,2019-07-24,8900
+C00314,Lejeune,PME du bâtiment,Annecy,97170,Carliernec,2016-04-21,5200
+C00315,Robin,Installateur indépendant,Annecy,67940,Jacob,2020-10-24,1600
+C00316,Jacob,Installateur indépendant,Grenoble,37606,Hervé,2023-10-07,3100
+C00317,Barbier,Grand compte,Chambéry,74876,Besnard,2023-12-27,18100
+C00318,Texier S.A.S.,Installateur indépendant,Chambéry,26304,Saint Aurélie,2023-02-12,2400
+C00319,Lebreton,PME du bâtiment,Grenoble,77872,Lecomte,2023-11-17,4900
+C00320,Boucher,Collectivité,Annecy,97165,Muller-sur-Mary,2019-03-04,4600
+C00321,Joseph,Installateur indépendant,Grenoble,55227,Lombard,2023-04-19,1700
+C00322,Pires,PME du bâtiment,Chambéry,20253,Giraud-sur-Mer,2021-12-11,3100
+C00323,Leleu Coulon et Fils,PME du bâtiment,Grenoble,49726,Barre,2023-04-16,2500
+C00324,Gautier S.A.,Installateur indépendant,Chambéry,14489,Joubert,2023-01-07,2300
+C00325,Gros,PME du bâtiment,Grenoble,34344,Bazin-sur-Potier,2023-12-23,4000
+C00326,Gallet SARL,Installateur indépendant,Chambéry,95334,AubryBourg,2023-03-13,3600
+C00327,Marie,Installateur indépendant,Chambéry,51505,Sainte Isaac,2023-08-30,2000
+C00328,Marin,PME du bâtiment,Grenoble,93160,Saint Amélie,2022-01-16,2800
+C00329,Jacques S.A.R.L.,Collectivité,Annecy,68244,Meyer,2020-10-20,10600
+C00330,Mathieu Delannoy SA,PME du bâtiment,Chambéry,01353,Perez,2022-12-21,5100
+C00331,Gauthier,Industrie,Grenoble,31693,Peron,2020-04-03,14700
+C00332,Lebon,PME du bâtiment,Grenoble,26466,Lebreton-les-Bains,2020-09-22,3400
+C00333,Marty S.A.S.,PME du bâtiment,Chambéry,28590,Clémentdan,2023-03-07,4500
+C00334,Millet Michel SA,Installateur indépendant,Annecy,75458,Charles-sur-Lebon,2017-10-08,2800
+C00335,Faure,Industrie,Grenoble,55621,Sainte LouiseVille,2019-10-18,13500
+C00336,Neveu Lemoine S.A.R.L.,Industrie,Chambéry,19399,Allardnec,2023-03-15,11700
+C00337,Pruvost S.A.,Industrie,Grenoble,41351,Lopes,2022-10-21,15800
+C00338,Masson,PME du bâtiment,Chambéry,78702,Hardydan,2020-08-31,2800
+C00339,Chauvin,Installateur indépendant,Grenoble,62940,Klein,2021-08-24,1800
+C00340,Godard S.A.S.,Installateur indépendant,Chambéry,80809,De Oliveira-les-Bains,2023-09-19,3900
+C00341,Valentin S.A.,Installateur indépendant,Grenoble,06430,Charrier,2022-04-26,1400
+C00342,Mathieu,Installateur indépendant,Annecy,19113,Masse,2022-05-24,3300
+C00343,Turpin S.A.,PME du bâtiment,Grenoble,94640,Sainte Arnaude,2022-11-03,6900
+C00344,Chrétien,Industrie,Annecy,37319,Seguin-sur-Hardy,2023-11-06,16000
+C00345,Bazin Carlier S.A.,Installateur indépendant,Annecy,97476,Adam-la-Forêt,2021-03-02,3700
+C00346,Faure,Installateur indépendant,Grenoble,09722,Bodin,2020-10-03,3600
+C00347,Picard SARL,Installateur indépendant,Grenoble,75408,Leduc-sur-Da Costa,2020-02-18,3500
+C00348,Lenoir S.A.R.L.,Collectivité,Annecy,08973,ArnaudVille,2017-02-13,6700
+C00349,Ramos,Installateur indépendant,Grenoble,23649,Perrier-sur-Paul,2020-02-15,1700
+C00350,Bourgeois S.A.,Industrie,Grenoble,75231,Mary,2020-04-20,8400
+C00351,Guillot Ollivier S.A.S.,PME du bâtiment,Chambéry,20572,Charpentiernec,2020-11-01,5400
+C00352,Brun et Fils,Installateur indépendant,Grenoble,57147,Sainte Georges,2021-11-24,3200
+C00353,Masson S.A.S.,Industrie,Grenoble,15562,Ferreiranec,2019-12-03,14300
+C00354,Salmon,Installateur indépendant,Chambéry,52934,Saint AnastasieVille,2022-02-03,3200
+C00355,Alves SARL,Installateur indépendant,Chambéry,20634,Baudryboeuf,2023-12-17,3300
+C00356,Rousseau Paul et Fils,Installateur indépendant,Chambéry,16324,Imbert,2020-01-13,1500
+C00357,Faure,PME du bâtiment,Annecy,08744,Sainte Claudine-les-Bains,2021-09-14,3200
+C00358,Pascal Maillet S.A.,PME du bâtiment,Chambéry,75396,Delattredan,2020-01-29,3500
+C00359,Martel,PME du bâtiment,Chambéry,66144,Seguin-la-Forêt,2022-08-24,6500
+C00360,Gaillard S.A.R.L.,Installateur indépendant,Grenoble,26823,Pruvost,2022-02-10,1600
+C00361,Techer,Collectivité,Chambéry,07293,Hamel,2021-08-22,6300
+C00362,Delannoy,Installateur indépendant,Chambéry,68615,Bigotnec,2023-04-08,2500
+C00363,Coste et Fils,PME du bâtiment,Chambéry,67384,Bertrandboeuf,2021-05-26,4900
+C00364,Renard,PME du bâtiment,Chambéry,14374,Dubois-les-Bains,2022-08-21,4800
+C00365,Maury SA,PME du bâtiment,Chambéry,79450,Rey,2022-04-10,5800
+C00366,Guilbert,PME du bâtiment,Chambéry,48292,Ferreira,2019-10-06,4600
+C00367,Perret Maury SARL,Collectivité,Chambéry,02960,Sainte Honoré,2020-04-04,8800
+C00368,Rossi,PME du bâtiment,Chambéry,97659,Besson,2019-12-10,5000
+C00369,Gallet SARL,PME du bâtiment,Chambéry,10123,Dos Santos,2018-10-04,6900
+C00370,Dijoux S.A.,Industrie,Chambéry,15988,Diallo,2019-06-27,10800
+C00371,Salmon,Installateur indépendant,Annecy,51787,Hoarau-sur-Boucher,2020-07-19,1800
+C00372,Leroux Salmon SA,PME du bâtiment,Chambéry,71620,Lebrun,2021-01-10,4800
+C00373,Vidal S.A.,Installateur indépendant,Annecy,97616,Pires,2019-05-19,2900
+C00374,Imbert S.A.R.L.,Collectivité,Grenoble,51167,Saint Danielle,2019-03-27,7500
+C00375,Pons,Industrie,Annecy,73105,Guillot,2020-07-30,11900
+C00376,Alves,Installateur indépendant,Chambéry,26397,Moreno,2021-02-25,2800
+C00377,Leduc SARL,Installateur indépendant,Grenoble,29742,Lagarde,2022-10-01,3600
+C00378,Allain,PME du bâtiment,Grenoble,40351,Ferrand-sur-Morvan,2021-09-05,3300
+C00379,Rivière,Installateur indépendant,Chambéry,73358,Courtoisnec,2022-07-28,1300
+C00380,Baron,PME du bâtiment,Chambéry,87683,Alexandre,2023-04-13,5000
+C00381,Riou Valentin S.A.S.,Collectivité,Grenoble,59518,Diasnec,2020-07-02,6200
+C00382,Letellier Bazin et Fils,PME du bâtiment,Annecy,27459,Dupuy,2022-08-16,6900
+C00383,De Sousa S.A.,PME du bâtiment,Annecy,97349,Vallée,2018-05-07,2400
+C00384,Morin Cohen SA,Installateur indépendant,Grenoble,97348,Adam,2018-04-22,1400
+C00385,Roger Peron S.A.,Installateur indépendant,Chambéry,52176,GuilletBourg,2022-11-02,2200
+C00386,Renard Gallet S.A.R.L.,PME du bâtiment,Annecy,55577,Noëlnec,2022-10-17,6800
+C00387,Charpentier Gallet et Fils,Installateur indépendant,Annecy,97428,Arnaud,2021-10-06,1600
+C00388,Henry,Grand compte,Chambéry,36683,Saint Noémi-les-Bains,2020-07-25,17500
+C00389,Collin S.A.R.L.,Installateur indépendant,Grenoble,37152,Henryboeuf,2019-02-21,3100
+C00390,Gomes,Installateur indépendant,Chambéry,65133,Reynaudboeuf,2017-10-23,2400
+C00391,Langlois Lemaire SA,Industrie,Grenoble,78621,Cohen,2019-11-16,7100
+C00392,Raynaud S.A.S.,Installateur indépendant,Chambéry,86835,Riou-les-Bains,2021-06-23,2500
+C00393,Guilbert S.A.,Installateur indépendant,Grenoble,57647,Roy,2019-11-29,3700
+C00394,Laine,Installateur indépendant,Grenoble,66464,ChrétienVille,2023-02-24,2000
+C00395,Charles SA,PME du bâtiment,Chambéry,75646,Paul,2019-02-16,4500
+C00396,Descamps SA,PME du bâtiment,Grenoble,90948,Rivière,2022-01-30,3000
+C00397,Dumas Delorme S.A.S.,Collectivité,Chambéry,71299,MoreauVille,2021-04-01,4400
+C00398,Chauvin S.A.S.,PME du bâtiment,Grenoble,23445,Saint Emmanuel,2022-06-16,4100
+C00399,Leleu SARL,PME du bâtiment,Chambéry,84830,Sainte Céline,2020-11-22,5500
+C00400,Clerc,Industrie,Grenoble,97147,Rousseau-les-Bains,2019-12-13,9300
+C00401,Rocher Durand et Fils,Industrie,Grenoble,20432,Sainte Anoukdan,2022-03-31,16500
+C00402,Carpentier,PME du bâtiment,Chambéry,19995,Potier,2022-10-11,3100
+C00403,Petit Colas et Fils,Installateur indépendant,Grenoble,63245,Sainte Éliseboeuf,2019-07-01,2100
+C00404,Allain S.A.,Installateur indépendant,Grenoble,45613,Sainte Michel,2018-08-10,3800
+C00405,Martel,Installateur indépendant,Chambéry,26360,Sainte Christelle,2022-08-10,1700
+C00406,Buisson et Fils,Installateur indépendant,Annecy,97234,Peltier,2021-05-30,3200
+C00407,Robin Ollivier SA,Installateur indépendant,Chambéry,57265,Dupuis,2022-01-16,1700
+C00408,Bigot,Installateur indépendant,Grenoble,46717,Mace,2019-12-09,2200
+C00409,Tessier,Installateur indépendant,Chambéry,20720,Roy-sur-Mer,2019-12-30,2300
+C00410,Hoareau,Grand compte,Annecy,86491,Giraud,2022-03-19,14800
+C00411,Navarro,PME du bâtiment,Annecy,60190,Blanchardnec,2021-01-16,6800
+C00412,Delorme,Installateur indépendant,Annecy,94806,Sainte Marysedan,2021-03-26,1700
+C00413,Charpentier,Installateur indépendant,Grenoble,42391,Saint Marcdan,2022-12-11,3000
+C00414,Besson Guichard S.A.S.,PME du bâtiment,Annecy,24415,Dumont,2019-06-18,5100
+C00415,Gomez,Installateur indépendant,Chambéry,34778,Sainte Xavier-la-Forêt,2020-02-28,3600
+C00416,Hervé Rodrigues SARL,Installateur indépendant,Grenoble,11710,Poulain-sur-Diallo,2019-05-09,1700
+C00417,Chrétien,PME du bâtiment,Annecy,58981,Bouvetboeuf,2022-02-12,3300
+C00418,Evrard S.A.,Installateur indépendant,Chambéry,93159,AubertVille,2022-03-15,3300
+C00419,Lecoq S.A.,Collectivité,Annecy,94411,Ferreira,2022-03-23,11100
+C00420,Poulain Jourdan S.A.R.L.,Installateur indépendant,Chambéry,64194,De Sousa,2021-10-28,1700

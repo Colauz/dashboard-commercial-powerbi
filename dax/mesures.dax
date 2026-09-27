@@ -1,0 +1,204 @@
+// =====================================================================
+//  Voltéa Distribution — bibliothèque de mesures DAX
+//  Modèle en étoile : fait_ventes / fait_objectifs + 4 dimensions
+//  À coller dans Power BI Desktop (Modélisation > Nouvelle mesure)
+//  Convention : toutes les mesures vivent dans une table vide « _Mesures »
+// =====================================================================
+
+// ---------------------------------------------------------------------
+// 1. Socle : chiffre d'affaires, coûts, marge
+// ---------------------------------------------------------------------
+
+CA HT =
+SUM ( fait_ventes[ca_ht] )
+
+Coût d'achat HT =
+SUM ( fait_ventes[cout_achat_total_ht] )
+
+Marge brute =
+[CA HT] - [Coût d'achat HT]
+
+Taux de marge % =
+DIVIDE ( [Marge brute], [CA HT] )
+
+Quantité vendue =
+SUM ( fait_ventes[quantite] )
+
+Nb commandes =
+DISTINCTCOUNT ( fait_ventes[numero_commande] )
+
+Nb lignes de commande =
+COUNTROWS ( fait_ventes )
+
+Panier moyen =
+DIVIDE ( [CA HT], [Nb commandes] )
+
+Remise moyenne % =
+// Pondérée par le CA : une remise sur un onduleur ne pèse pas
+// comme une remise sur une boîte de prises.
+VAR CaAvantRemise =
+    SUMX (
+        fait_ventes,
+        DIVIDE ( fait_ventes[ca_ht], 1 - fait_ventes[taux_remise] )
+    )
+RETURN
+    DIVIDE ( CaAvantRemise - [CA HT], CaAvantRemise )
+
+// ---------------------------------------------------------------------
+// 2. Time intelligence — s'appuie sur dim_date marquée comme table de dates
+// ---------------------------------------------------------------------
+
+CA HT N-1 =
+CALCULATE ( [CA HT], DATEADD ( dim_date[date], -1, YEAR ) )
+
+Marge brute N-1 =
+CALCULATE ( [Marge brute], DATEADD ( dim_date[date], -1, YEAR ) )
+
+Évolution CA vs N-1 =
+[CA HT] - [CA HT N-1]
+
+Évolution CA vs N-1 % =
+DIVIDE ( [Évolution CA vs N-1], [CA HT N-1] )
+
+CA HT cumul annuel =
+TOTALYTD ( [CA HT], dim_date[date] )
+
+CA HT cumul annuel N-1 =
+CALCULATE ( [CA HT cumul annuel], DATEADD ( dim_date[date], -1, YEAR ) )
+
+CA HT 12 mois glissants =
+CALCULATE (
+    [CA HT],
+    DATESINPERIOD ( dim_date[date], MAX ( dim_date[date] ), -12, MONTH )
+)
+
+CA moyen par jour ouvré =
+VAR JoursOuvres =
+    CALCULATE ( COUNTROWS ( dim_date ), dim_date[est_ouvre] = TRUE () )
+RETURN
+    DIVIDE ( [CA HT], JoursOuvres )
+
+// ---------------------------------------------------------------------
+// 3. Objectifs et atteinte
+// ---------------------------------------------------------------------
+
+Objectif CA HT =
+SUM ( fait_objectifs[objectif_ca_ht] )
+
+Écart à l'objectif =
+[CA HT] - [Objectif CA HT]
+
+Atteinte objectif % =
+DIVIDE ( [CA HT], [Objectif CA HT] )
+
+Statut objectif =
+// Renvoie un libellé exploitable en KPI ou en mise en forme conditionnelle.
+VAR Atteinte = [Atteinte objectif %]
+RETURN
+    SWITCH (
+        TRUE (),
+        ISBLANK ( [Objectif CA HT] ), "Non fixé",
+        Atteinte >= 1,    "Atteint",
+        Atteinte >= 0.9,  "À portée",
+        "En retard"
+    )
+
+Couleur atteinte =
+SWITCH (
+    [Statut objectif],
+    "Atteint",   "#1F7A5A",
+    "À portée",  "#C98A2B",
+    "En retard", "#B33A3A",
+    "#8A8F98"
+)
+
+// ---------------------------------------------------------------------
+// 4. Concentration client et produit (Pareto)
+// ---------------------------------------------------------------------
+
+Rang client par CA =
+RANKX ( ALLSELECTED ( dim_client[raison_sociale] ), [CA HT],, DESC, DENSE )
+
+CA cumulé Pareto client =
+VAR RangCourant = [Rang client par CA]
+RETURN
+    CALCULATE (
+        [CA HT],
+        FILTER (
+            ALLSELECTED ( dim_client[raison_sociale] ),
+            [Rang client par CA] <= RangCourant
+        )
+    )
+
+Part cumulée Pareto client % =
+DIVIDE (
+    [CA cumulé Pareto client],
+    CALCULATE ( [CA HT], ALLSELECTED ( dim_client[raison_sociale] ) )
+)
+
+Nb clients actifs =
+CALCULATE ( DISTINCTCOUNT ( fait_ventes[cle_client] ) )
+
+Nb clients actifs 12 mois =
+CALCULATE (
+    DISTINCTCOUNT ( fait_ventes[cle_client] ),
+    DATESINPERIOD ( dim_date[date], MAX ( dim_date[date] ), -12, MONTH )
+)
+
+CA moyen par client =
+DIVIDE ( [CA HT], [Nb clients actifs] )
+
+// ---------------------------------------------------------------------
+// 5. Santé du portefeuille — clients gagnés / perdus
+// ---------------------------------------------------------------------
+
+Clients perdus (12 mois) =
+// Clients qui ont acheté sur les 12 mois précédents mais plus sur les 12 derniers.
+VAR FinPeriode = MAX ( dim_date[date] )
+VAR ClientsRecents =
+    CALCULATETABLE (
+        VALUES ( fait_ventes[cle_client] ),
+        DATESINPERIOD ( dim_date[date], FinPeriode, -12, MONTH )
+    )
+VAR ClientsPrecedents =
+    CALCULATETABLE (
+        VALUES ( fait_ventes[cle_client] ),
+        DATESINPERIOD ( dim_date[date], EDATE ( FinPeriode, -12 ), -12, MONTH )
+    )
+RETURN
+    COUNTROWS ( EXCEPT ( ClientsPrecedents, ClientsRecents ) )
+
+Nouveaux clients (12 mois) =
+VAR FinPeriode = MAX ( dim_date[date] )
+VAR ClientsRecents =
+    CALCULATETABLE (
+        VALUES ( fait_ventes[cle_client] ),
+        DATESINPERIOD ( dim_date[date], FinPeriode, -12, MONTH )
+    )
+VAR ClientsPrecedents =
+    CALCULATETABLE (
+        VALUES ( fait_ventes[cle_client] ),
+        DATESINPERIOD ( dim_date[date], EDATE ( FinPeriode, -12 ), -12, MONTH )
+    )
+RETURN
+    COUNTROWS ( EXCEPT ( ClientsRecents, ClientsPrecedents ) )
+
+// ---------------------------------------------------------------------
+// 6. Mesures de mise en forme (titres dynamiques, libellés KPI)
+// ---------------------------------------------------------------------
+
+Titre période =
+VAR Debut = MIN ( dim_date[date] )
+VAR Fin = MAX ( dim_date[date] )
+RETURN
+    "Du " & FORMAT ( Debut, "dd/MM/yyyy" ) & " au " & FORMAT ( Fin, "dd/MM/yyyy" )
+
+Libellé évolution CA =
+VAR Delta = [Évolution CA vs N-1 %]
+VAR Fleche = IF ( Delta >= 0, "▲", "▼" )
+RETURN
+    IF (
+        ISBLANK ( [CA HT N-1] ),
+        "Pas d'historique N-1",
+        Fleche & " " & FORMAT ( Delta, "+0.0 %;-0.0 %" ) & " vs N-1"
+    )

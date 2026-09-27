@@ -1,0 +1,33 @@
+cle_produit,reference,libelle_produit,famille,sous_famille,cout_achat_ht,prix_catalogue_ht,taux_tva
+P0001,APP-0001,Disjoncteur modulaire 16A courbe C,Appareillage,Disjoncteurs,8.4,13.55,0.2
+P0002,APP-0002,Disjoncteur modulaire 20A courbe C,Appareillage,Disjoncteurs,9.1,14.68,0.2
+P0003,APP-0003,Disjoncteur différentiel 30mA 40A,Appareillage,Disjoncteurs,52.0,76.47,0.2
+P0004,APP-0004,Disjoncteur tétrapolaire 63A,Appareillage,Disjoncteurs,118.0,166.2,0.2
+P0005,APP-0005,Coffret 3 rangées 39 modules,Appareillage,Coffrets,64.0,96.97,0.2
+P0006,APP-0006,Coffret étanche IP65 12 modules,Appareillage,Coffrets,41.5,64.84,0.2
+P0007,APP-0007,Platine de raccordement compteur,Appareillage,Coffrets,27.8,46.33,0.2
+P0008,APP-0008,Prise 2P+T encastrée blanc,Appareillage,Prises et interrupteurs,3.2,6.67,0.2
+P0009,APP-0009,Interrupteur va-et-vient blanc,Appareillage,Prises et interrupteurs,2.9,6.3,0.2
+P0010,APP-0010,Prise renforcée 32A IP44,Appareillage,Prises et interrupteurs,18.6,33.21,0.2
+P0011,CAB-0011,Câble U-1000 R2V 3G2.5 (couronne 100m),Câbles et conduits,Câbles cuivre,128.0,164.1,0.2
+P0012,CAB-0012,Câble U-1000 R2V 5G6 (couronne 50m),Câbles et conduits,Câbles cuivre,286.0,353.09,0.2
+P0013,CAB-0013,Câble H07V-U 2.5 rouge (couronne 100m),Câbles et conduits,Câbles cuivre,39.0,52.0,0.2
+P0014,CAB-0014,Gaine ICTA Ø20 (couronne 100m),Câbles et conduits,Conduits et goulottes,22.4,37.97,0.2
+P0015,CAB-0015,Goulotte PVC 60x40 (barre 2m),Câbles et conduits,Conduits et goulottes,11.8,21.45,0.2
+P0016,CAB-0016,Chemin de câbles fil 100mm (3m),Câbles et conduits,Conduits et goulottes,34.6,54.92,0.2
+P0017,ECL-0017,Dalle LED 600x600 36W 4000K,Éclairage,Luminaires tertiaires,42.0,64.62,0.2
+P0018,ECL-0018,Réglette LED étanche 1500mm 50W,Éclairage,Luminaires tertiaires,38.5,60.16,0.2
+P0019,ECL-0019,Projecteur LED 150W IP66,Éclairage,Luminaires tertiaires,76.0,113.43,0.2
+P0020,ECL-0020,Ampoule LED E27 9W 2700K,Éclairage,Sources et commandes,2.1,5.0,0.2
+P0021,ECL-0021,Détecteur de présence plafond 360°,Éclairage,Sources et commandes,44.0,75.86,0.2
+P0022,ENE-0022,Panneau PV monocristallin 425Wc,Énergies renouvelables,Photovoltaïque,128.0,162.03,0.2
+P0023,ENE-0023,Onduleur hybride 5kW monophasé,Énergies renouvelables,Photovoltaïque,940.0,1146.34,0.2
+P0024,ENE-0024,Coffret AC/DC protection PV,Énergies renouvelables,Photovoltaïque,186.0,254.79,0.2
+P0025,ENE-0025,Borne de recharge 7.4kW T2S,Énergies renouvelables,Recharge véhicule,486.0,639.47,0.2
+P0026,ENE-0026,Borne de recharge 22kW pilotable,Énergies renouvelables,Recharge véhicule,1180.0,1512.82,0.2
+P0027,ENE-0027,Câble de recharge T2 5m 32A,Énergies renouvelables,Recharge véhicule,142.0,205.8,0.2
+P0028,OUT-0028,Pince à dénuder automatique,Outillage et EPI,Outillage,24.5,47.12,0.2
+P0029,OUT-0029,Perforateur SDS+ 800W,Outillage et EPI,Outillage,168.0,236.62,0.2
+P0030,OUT-0030,Multimètre TRMS CAT III 600V,Outillage et EPI,Outillage,96.0,147.69,0.2
+P0031,OUT-0031,Casque isolant classe 0,Outillage et EPI,Protection,38.0,67.86,0.2
+P0032,OUT-0032,Gants isolants classe 00 (paire),Outillage et EPI,Protection,52.0,88.14,0.2
